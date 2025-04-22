@@ -37,6 +37,11 @@ env/
 # Environment variables
 .env
 
+# Documentation files
+document_de_cadrage.md
+todo_list.md
+wireframes.md
+
 # OS
 .DS_Store
 Thumbs.db 
